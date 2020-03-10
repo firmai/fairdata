@@ -1,2 +1,2 @@
-# FairData — Model-agnostic pre-and post-processing to mitigate unfairness in machine learning prediction
+# FairData — Adjusting Data and Outcomes for AI Fairness
 A Python package that implements model-agnostic pre-and post-processing to mitigate unfairness in machine learning prediction tasks. Fix machine learning bias by adjusting the underlying data or model outputs. 
